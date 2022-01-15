@@ -1,0 +1,34 @@
+#contact{
+    border: 1px solid black;
+    height: 500px; 
+    text-align: center;
+    font-size: larger;
+    width: 450px;
+    margin-left: 450px;
+    margin-top: 100px;
+    overflow: scroll;
+    
+    
+}
+#main{
+    text-align: start;
+    
+    
+}
+.starting{
+    width: 430px;
+    background-color: gray;
+    padding: 0%;
+    
+}
+.starting{
+    padding-left: 20px;
+}
+.names{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+}
+body{
+    background-color:lightskyblue;
+}
